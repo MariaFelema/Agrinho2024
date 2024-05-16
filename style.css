@@ -1,11 +1,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Poetsen+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
 
 :root{
+    --cor-de-fundo: #c0ffe7;
+    --fonte-principal: Playfair;
+    --fonte-titulo: Poetsen One;
+}
+
+body{
 
 }
 
 h1{
-    font-family: Poetsen One;
+    font-family:var(--fonte-titulo);
     font-size: 40px;
     text-align: center;
 }

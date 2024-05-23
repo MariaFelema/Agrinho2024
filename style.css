@@ -17,7 +17,8 @@ h1{
     text-align: center;
 }
 
-h2{
+h2 p i{
     font-family: var(--fonte-principal);
     font-size: 25px;
+    margin-left: 20px;
 }

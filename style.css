@@ -9,7 +9,7 @@
 
 body{
     background-color:var(--cor-de-fundo);
-    border: 10px;
+    border: 20px;
     border-style: dashed;
     border-color:var(--cor-de-fundo) ;
 }

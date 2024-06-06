@@ -10,7 +10,7 @@
 }
 
 body{
-    background: linear-gradient(var(--cor-de-fundo1), var(--cor-de-fundo1), var(--cor-de-fundo3));
+    background: linear-gradient(var(--cor-de-fundo1), var(--cor-de-fundo2), var(--cor-de-fundo3));
     border: 20px;
     border-style: dashed;
     border-color:var(--cor-de-fundo) ;

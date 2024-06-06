@@ -2,13 +2,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
 
 :root{
-    --cor-de-fundo: #c0ffe7;
+    --cor-de-fundo1: #a7dcff;
+    --cor-de-fundo2: #ccffcca2;
+    --cor-de-fundo3: #ffffdff8;
     --fonte-principal: Playfair;
     --fonte-titulo: Poetsen One;
 }
 
 body{
-    background-color:var(--cor-de-fundo);
+    background: linear-gradient(var(--cor-de-fundo1), var(--cor-de-fundo1), var(--cor-de-fundo3));
     border: 20px;
     border-style: dashed;
     border-color:var(--cor-de-fundo) ;

@@ -33,20 +33,15 @@ h4{
     font-size: 30px;
 }
 
-h5{
-    font-family:var(--fonte-principal);
-    font-size: 25px;
-}
-
-h6{
+li{
     font-family:var(--fonte-principal);
     font-size: 20px;
 }
 
 .container img {
     text-align: left;
-    width: 250px; 
-    height: 250px; 
+    width: 350px; 
+    height: 350px; 
 }
 
 .cx-foto-texto{

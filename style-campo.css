@@ -23,12 +23,34 @@ h2{
     font-size: 20px;
 }
 
+h3{
+    font-family:var(--fonte-principal);
+    font-size: 15px;
+}
+
+h4{
+    font-family:var(--fonte-principal);
+    font-size: 30px;
+}
+
+h5{
+    font-family:var(--fonte-principal);
+    font-size: 25px;
+}
+
+h6{
+    font-family:var(--fonte-principal);
+    font-size: 20px;
+}
+
 .container img {
     text-align: left;
-    width: 100px; 
-    height: 100px; 
+    width: 250px; 
+    height: 250px; 
 }
 
 .cx-foto-texto{
     display: flex;
+    font-family: var(--fonte-principal);
+    font-size: 30px;
 }

@@ -12,6 +12,11 @@ body{
     margin: 50px;
 }
 
+p{
+    font-family: var(--fonte-principal);
+    font-size: 10px;
+}
+
 h1{
     font-family:var(--fonte-titulo);
     font-size: 40px;
@@ -28,7 +33,3 @@ h3{
     font-size: 20px;
 }
 
-h4{
-    font-family:var(--fonte-principal);
-    font-size: 10px;
-}

@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Poetsen+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+:root{
+    --cor-de-fundo: #299fffa2;
+    --fonte-principal: Playfair;
+    --fonte-titulo: Poetsen One;
+}
+
+body{
+    background-color: var(--cor-de-fundo);
+    margin: 50px;
+}
+
+h1{
+    font-family:var(--fonte-titulo);
+    font-size: 40px;
+    text-align: center;
+}
+
+h2{
+    font-family:var(--fonte-principal);
+    font-size: 20px;
+}
+
+h3{
+    font-family:var(--fonte-principal);
+    font-size: 15px;
+}
+
+.container img {
+    text-align: left;
+    width: 500px; 
+    height: 500px; 
+}
+
+.cx-foto-texto{
+    display: center;
+    font-family: var(--fonte-principal);
+    font-size: 30px;
+}

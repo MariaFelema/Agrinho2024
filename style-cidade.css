@@ -29,7 +29,7 @@ h3{
 }
 
 img {
-    display: flex;
+    display: left;
     width: 600px; 
     height: 600px; 
 }

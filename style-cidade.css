@@ -30,12 +30,6 @@ h3{
 
 .container img {
     text-align: left;
-    width: 500px; 
-    height: 500px; 
-}
-
-.cx-foto-texto{
-    display: center;
-    font-family: var(--fonte-principal);
-    font-size: 30px;
+    width: 700px; 
+    height: 700px; 
 }
